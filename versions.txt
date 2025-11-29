@@ -1,3 +1,3 @@
 {
-    "libbgmi.so": 2
+    "libTHUNDER.so": 1
 }
