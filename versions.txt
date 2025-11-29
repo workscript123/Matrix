@@ -1,3 +1,0 @@
-{
-    "libTHUNDER.so": 1
-}
