@@ -1,3 +1,0 @@
-{
-    "libMATRIX.so": 3
-}
